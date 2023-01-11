@@ -1,0 +1,11 @@
+body {
+    background-image: url("/img/universe.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.glass {
+    backdrop-filter: blur(4rem) saturate(180%);
+    -webkit-backdrop-filter: blur(4rem) saturate(180%);
+    background-color: rgba(0, 0, 0, 0.8);
+}
