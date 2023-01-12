@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     ],
     app: {
         head: {
-            title: 'AstroDev.',
+            title: 'AstroDev',
             meta: [
                 { name: 'description', content: 'Astronaut Development' }
             ],
